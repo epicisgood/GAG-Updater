@@ -30,9 +30,10 @@
     "Horsetail", "Lingonberry",
     "Amber Spine", "Grand Volcania"
   ],
-  "EventCrafting": [
-    "Mutation Spray Amber", "Ancient Seed Pack",
-    "Dino Crate", "Archaelogist Crate",
-    "Dinosaur Egg", "Primal Egg"
+  "Events": [
+    "Zen Seed Pack", "Zen Egg", "Hot Spring",
+    "Zen Sand", "Tranquil Radar", "Zenflare Seed", "Zen Crate", 
+    "Soft Sunshine Seed", "Koi", "Zen Gnome Crate",
+    "Spiked Mango Seed", "Pet Shard Tranquil"
   ]
 }
