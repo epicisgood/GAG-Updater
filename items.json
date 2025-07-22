@@ -4,7 +4,7 @@
     "Daffodll Seed", "Watermelon Seed", "Pumpkin Seed",
     "Apple Seed", "Bamboo Seed", "Coconut Seed", "Cactus Seed",
     "Dragon Fruit Seed", "Mango Seed", "Grape Seed", "Mushroom Seed",
-    "Pepper Seed", "Cacao Seed", "Beanstalk Seed", "Ember Lily", "Sugar Apple", "Burning Bud", "Giant Pinecone Seed"
+    "Pepper Seed", "Cacao Seed", "Beanstalk Seed", "Ember Lily", "Sugar Apple", "Burning Bud", "Giant Pinecone Seed", "Wow very cool item"
   ],
   "Gears": [
     "Watering Can", "Trowel", "Recall Wrench",
@@ -35,5 +35,6 @@
     "Zen Sand", "Tranquil Radar", "Zenflare Seed", "Zen Crate", 
     "Soft Sunshine Seed", "Koi", "Zen Gnome Crate",
     "Spiked Mango Seed", "Pet Shard Tranquil"
-  ]
+  ],
+  "message" : "Testing 123"
 }
