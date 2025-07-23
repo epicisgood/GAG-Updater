@@ -1,6 +1,7 @@
 {
   "Seeds": [
-    "Carrot Seed", "Strawberry Seed", "Blueberry Seed", "Orange Tulip", "Tomato Seed", "Corn Seed",
+    { "name": "Carrot Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/5/59/CarrotProduce.png" },
+    "Strawberry Seed", "Blueberry Seed", "Orange Tulip", "Tomato Seed", "Corn Seed",
     "Daffodll Seed", "Watermelon Seed", "Pumpkin Seed",
     "Apple Seed", "Bamboo Seed", "Coconut Seed", "Cactus Seed",
     "Dragon Fruit Seed", "Mango Seed", "Grape Seed", "Mushroom Seed",
