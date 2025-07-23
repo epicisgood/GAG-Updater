@@ -1,40 +1,93 @@
 {
   "Seeds": [
-    "Carrot Seed", "Strawberry Seed", "Blueberry Seed", "Orange Tulip", "Tomato Seed", "Corn Seed",
-    "Daffodll Seed", "Watermelon Seed", "Pumpkin Seed",
-    "Apple Seed", "Bamboo Seed", "Coconut Seed", "Cactus Seed",
-    "Dragon Fruit Seed", "Mango Seed", "Grape Seed", "Mushroom Seed",
-    "Pepper Seed", "Cacao Seed", "Beanstalk Seed", "Ember Lily", "Sugar Apple", "Burning Bud", "Giant Pinecone Seed"
+    { "name": "Carrot Seed", "image": "../../images/Seeds/Carrot Seed.webp" },
+    { "name": "Strawberry Seed", "image": "../../images/Seeds/Strawberry Seed.webp" },
+    { "name": "Blueberry Seed", "image": "../../images/Seeds/Blueberry Seed.webp" },
+    { "name": "Orange Tulip", "image": "../../images/Seeds/Orange Tulip.webp" },
+    { "name": "Tomato Seed", "image": "../../images/Seeds/Tomato Seed.webp" },
+    { "name": "Corn Seed", "image": "../../images/Seeds/Corn Seed.webp" },
+    { "name": "Daffodll Seed", "image": "../../images/Seeds/Daffodll Seed.webp" },
+    { "name": "Watermelon Seed", "image": "../../images/Seeds/Watermelon Seed.webp" },
+    { "name": "Pumpkin Seed", "image": "../../images/Seeds/Pumpkin Seed.webp" },
+    { "name": "Apple Seed", "image": "../../images/Seeds/Apple Seed.webp" },
+    { "name": "Bamboo Seed", "image": "../../images/Seeds/Bamboo Seed.webp" },
+    { "name": "Coconut Seed", "image": "../../images/Seeds/Coconut Seed.webp" },
+    { "name": "Cactus Seed", "image": "../../images/Seeds/Cactus Seed.webp" },
+    { "name": "Dragon Fruit Seed", "image": "../../images/Seeds/Dragon Fruit Seed.webp" },
+    { "name": "Mango Seed", "image": "../../images/Seeds/Mango Seed.webp" },
+    { "name": "Grape Seed", "image": "../../images/Seeds/Grape Seed.webp" },
+    { "name": "Mushroom Seed", "image": "../../images/Seeds/Mushroom Seed.webp" },
+    { "name": "Pepper Seed", "image": "../../images/Seeds/Pepper Seed.webp" },
+    { "name": "Cacao Seed", "image": "../../images/Seeds/Cacao Seed.webp" },
+    { "name": "Beanstalk Seed", "image": "../../images/Seeds/Beanstalk Seed.webp" },
+    { "name": "Ember Lily", "image": "../../images/Seeds/Ember Lily.webp" },
+    { "name": "Sugar Apple", "image": "../../images/Seeds/Sugar Apple.webp" },
+    { "name": "Burning Bud", "image": "../../images/Seeds/Burning Bud.webp" },
+    { "name": "Giant Pinecone Seed", "image": "../../images/Seeds/Giant Pinecone Seed.webp" }
   ],
   "Gears": [
-    "Watering Can", "Trowel", "Recall Wrench",
-    "Basic Sprinkler", "Advanced Sprinkler", "Medium Toy", "Medium Treat",
-    "Godly Sprinkler", "Magnifying Glass",
-    "Tanning Mirror", "Master Sprinkler", "Cleaning Spray",
-    "Favorite Tool", "Harvest Tool", "Friendship Pot", "Levelup Lollipop"
+    { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
+    { "name": "Trowel", "image": "../../images/Gears/Trowel.webp" },
+    { "name": "Recall Wrench", "image": "../../images/Gears/Recall Wrench.webp" },
+    { "name": "Basic Sprinkler", "image": "../../images/Gears/Basic Sprinkler.webp" },
+    { "name": "Advanced Sprinkler", "image": "../../images/Gears/Advanced Sprinkler.webp" },
+    { "name": "Medium Toy", "image": "../../images/Gears/Medium Toy.webp" },
+    { "name": "Medium Treat", "image": "../../images/Gears/Medium Treat.webp" },
+    { "name": "Godly Sprinkler", "image": "../../images/Gears/Godly Sprinkler.webp" },
+    { "name": "Magnifying Glass", "image": "../../images/Gears/Magnifying Glass.webp" },
+    { "name": "Tanning Mirror", "image": "../../images/Gears/Tanning Mirror.webp" },
+    { "name": "Master Sprinkler", "image": "../../images/Gears/Master Sprinkler.webp" },
+    { "name": "Cleaning Spray", "image": "../../images/Gears/Cleaning Spray.webp" },
+    { "name": "Favorite Tool", "image": "../../images/Gears/Favorite Tool.webp" },
+    { "name": "Harvest Tool", "image": "../../images/Gears/Harvest Tool.webp" },
+    { "name": "Friendship Pot", "image": "../../images/Gears/Friendship Pot.webp" },
+    { "name": "Levelup Lollipop", "image": "../../images/Gears/Levelup Lollipop.webp" }
   ],
   "Eggs": [
-    "Common Egg", "Common Summer Egg", "Rare Summer Egg",
-    "Mythical Egg", "Paradise Egg", "Bug Egg"
+    { "name": "Common Egg", "image": "../../images/Eggs/Common Egg.webp" },
+    { "name": "Common Summer Egg", "image": "../../images/Eggs/Common Summer Egg.webp" },
+    { "name": "Rare Summer Egg", "image": "../../images/Eggs/Rare Summer Egg.webp" },
+    { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" },
+    { "name": "Paradise Egg", "image": "../../images/Eggs/Paradise Egg.webp" },
+    { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
   "GearCrafting": [
-    "Lighting Rod", "Reclaimer", "Tropical Mist Sprinkler",
-    "Berry Blusher Sprinkler", "Spice Spirtzer Sprinkler",
-    "Sweet Soaker Sprinkler", "Flower Froster Sprinkler",
-    "Stalk Sprout Sprinkler", "Mutation Spray Choc",
-    "Mutation Spray Chilled", "Mutation Spray Shocked",
-    "Anti Bee Egg", "Small Toy",
-    "Small Treat", "Pack Bee"
+    { "name": "Lighting Rod", "image": "../../images/GearCrafting/Lighting Rod.webp" },
+    { "name": "Reclaimer", "image": "../../images/GearCrafting/Reclaimer.webp" },
+    { "name": "Tropical Mist Sprinkler", "image": "../../images/GearCrafting/Tropical Mist Sprinkler.webp" },
+    { "name": "Berry Blusher Sprinkler", "image": "../../images/GearCrafting/Berry Blusher Sprinkler.webp" },
+    { "name": "Spice Spirtzer Sprinkler", "image": "../../images/GearCrafting/Spice Spirtzer Sprinkler.webp" },
+    { "name": "Sweet Soaker Sprinkler", "image": "../../images/GearCrafting/Sweet Soaker Sprinkler.webp" },
+    { "name": "Flower Froster Sprinkler", "image": "../../images/GearCrafting/Flower Froster Sprinkler.webp" },
+    { "name": "Stalk Sprout Sprinkler", "image": "../../images/GearCrafting/Stalk Sprout Sprinkler.webp" },
+    { "name": "Mutation Spray Choc", "image": "../../images/GearCrafting/Mutation Spray Choc.webp" },
+    { "name": "Mutation Spray Chilled", "image": "../../images/GearCrafting/Mutation Spray Chilled.webp" },
+    { "name": "Mutation Spray Shocked", "image": "../../images/GearCrafting/Mutation Spray Shocked.webp" },
+    { "name": "Anti Bee Egg", "image": "../../images/GearCrafting/Anti Bee Egg.webp" },
+    { "name": "Small Toy", "image": "../../images/GearCrafting/Small Toy.webp" },
+    { "name": "Small Treat", "image": "../../images/GearCrafting/Small Treat.webp" },
+    { "name": "Pack Bee", "image": "../../images/GearCrafting/Pack Bee.webp" }
   ],
   "SeedCrafting": [
-    "Horsetail", "Lingonberry",
-    "Amber Spine", "Grand Volcania"
+    { "name": "Horsetail", "image": "../../images/SeedCrafting/Horsetail.webp" },
+    { "name": "Lingonberry", "image": "../../images/SeedCrafting/Lingonberry.webp" },
+    { "name": "Amber Spine", "image": "../../images/SeedCrafting/Amber Spine.webp" },
+    { "name": "Grand Volcania", "image": "../../images/SeedCrafting/Grand Volcania.webp" }
   ],
   "Events": [
-    "Zen Seed Pack", "Zen Egg", "Hot Spring",
-    "Zen Sand", "Tranquil Radar", "Zenflare Seed", "Zen Crate", 
-    "Soft Sunshine Seed", "Koi", "Zen Gnome Crate",
-    "Spiked Mango Seed", "Pet Shard Tranquil"
+    { "name": "Zen Seed Pack", "image": "../../images/Events/Zen Seed Pack.webp" },
+    { "name": "Zen Egg", "image": "../../images/Events/Zen Egg.webp" },
+    { "name": "Hot Spring", "image": "../../images/Events/Hot Spring.webp" },
+    { "name": "Zen Sand", "image": "../../images/Events/Zen Sand.webp" },
+    { "name": "Tranquil Radar", "image": "../../images/Events/Tranquil Radar.webp" },
+    { "name": "Zenflare Seed", "image": "../../images/Events/Zenflare Seed.webp" },
+    { "name": "Zen Crate", "image": "../../images/Events/Zen Crate.webp" },
+    { "name": "Soft Sunshine Seed", "image": "../../images/Events/Soft Sunshine Seed.webp" },
+    { "name": "Koi", "image": "../../images/Events/Koi.webp" },
+    { "name": "Zen Gnome Crate", "image": "../../images/Events/Zen Gnome Crate.webp" },
+    { "name": "Spiked Mango Seed", "image": "../../images/Events/Spiked Mango Seed.webp" },
+    { "name": "Pet Shard Tranquil", "image": "../../images/Events/Pet Shard Tranquil.webp" }
   ],
-  "message" : "Hello!"
+  "message": "Hello!"
 }
+  
