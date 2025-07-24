@@ -23,7 +23,8 @@
     { "name": "Ember Lily", "image": "../../images/Seeds/Ember Lily.webp" },
     { "name": "Sugar Apple", "image": "../../images/Seeds/Sugar Apple.webp" },
     { "name": "Burning Bud", "image": "../../images/Seeds/Burning Bud.webp" },
-    { "name": "Giant Pinecone Seed", "image": "../../images/Seeds/Giant Pinecone Seed.webp" }
+    { "name": "Giant Pinecone Seed", "image": "../../images/Seeds/Giant Pinecone Seed.webp" },
+    { "name": "Candy Blossom Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/5/52/CandyBlossomPic.png" }
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
