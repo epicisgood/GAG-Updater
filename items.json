@@ -23,7 +23,8 @@
     { "name": "Ember Lily", "image": "../../images/Seeds/Ember Lily.webp" },
     { "name": "Sugar Apple", "image": "../../images/Seeds/Sugar Apple.webp" },
     { "name": "Burning Bud", "image": "../../images/Seeds/Burning Bud.webp" },
-    { "name": "Giant Pinecone Seed", "image": "../../images/Seeds/Giant Pinecone Seed.webp" }
+    { "name": "Giant Pinecone Seed", "image": "../../images/Seeds/Giant Pinecone Seed.webp" },
+    { "name": "Elder Strawberry Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/3/3c/ElderStrawberryCrop.png" }
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
@@ -80,14 +81,18 @@
     { "name": "Hot Spring", "image": "../../images/Events/Hot Spring.webp" },
     { "name": "Zen Sand", "image": "../../images/Events/Zen Sand.webp" },
     { "name": "Tranquil Radar", "image": "../../images/Events/Tranquil Radar.webp" },
+    { "name": "Corrupt Radar", "image": "https://static.wikia.nocookie.net/growagarden/images/7/7f/CorruptRadar.png" },
     { "name": "Zenflare Seed", "image": "../../images/Events/Zenflare Seed.webp" },
     { "name": "Zen Crate", "image": "../../images/Events/Zen Crate.webp" },
+    { "name": "Sakura Bush Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/e/ea/SakuraBushProduce.png" },
     { "name": "Soft Sunshine Seed", "image": "../../images/Events/Soft Sunshine Seed.webp" },
     { "name": "Koi", "image": "../../images/Events/Koi.webp" },
     { "name": "Zen Gnome Crate", "image": "../../images/Events/Zen Gnome Crate.webp" },
     { "name": "Spiked Mango Seed", "image": "../../images/Events/Spiked Mango Seed.webp" },
-    { "name": "Pet Shard Tranquil", "image": "../../images/Events/Pet Shard Tranquil.webp" }
+    { "name": "Pet Shard Tranquil", "image": "../../images/Events/Pet Shard Tranquil.webp" },
+    { "name": "Pet Shard Corrupted", "image": "https://static.wikia.nocookie.net/growagarden/images/9/91/CorruptedPetMutationShard.png" },
+    { "name": "Raiju", "image": "https://static.wikia.nocookie.net/growagarden/images/0/0d/Raiju.png" }
   ],
-  "message": "Hello!"
+  "message": "New corrupted update!"
 }
   
