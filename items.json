@@ -28,6 +28,7 @@
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
+    { "name": "Trading Ticket", "image": "https://static.wikia.nocookie.net/growagarden/images/3/33/TradingTicket.png" },
     { "name": "Trowel", "image": "../../images/Gears/Trowel.webp" },
     { "name": "Recall Wrench", "image": "../../images/Gears/Recall Wrench.webp" },
     { "name": "Basic Sprinkler", "image": "../../images/Gears/Basic Sprinkler.webp" },
@@ -36,7 +37,6 @@
     { "name": "Medium Treat", "image": "../../images/Gears/Medium Treat.webp" },
     { "name": "Godly Sprinkler", "image": "../../images/Gears/Godly Sprinkler.webp" },
     { "name": "Magnifying Glass", "image": "../../images/Gears/Magnifying Glass.webp" },
-    { "name": "Tanning Mirror", "image": "../../images/Gears/Tanning Mirror.webp" },
     { "name": "Master Sprinkler", "image": "../../images/Gears/Master Sprinkler.webp" },
     { "name": "Cleaning Spray", "image": "../../images/Gears/Cleaning Spray.webp" },
     { "name": "Favorite Tool", "image": "../../images/Gears/Favorite Tool.webp" },
@@ -54,6 +54,7 @@
   ],
   "GearCrafting": [
     { "name": "Lighting Rod", "image": "../../images/GearCrafting/Lighting Rod.webp" },
+    { "name": "Tanning Mirror", "image": "../../images/Gears/Tanning Mirror.webp" },
     { "name": "Reclaimer", "image": "../../images/GearCrafting/Reclaimer.webp" },
     { "name": "Tropical Mist Sprinkler", "image": "../../images/GearCrafting/Tropical Mist Sprinkler.webp" },
     { "name": "Berry Blusher Sprinkler", "image": "../../images/GearCrafting/Berry Blusher Sprinkler.webp" },
@@ -93,6 +94,6 @@
     { "name": "Pet Shard Corrupted", "image": "https://static.wikia.nocookie.net/growagarden/images/9/91/CorruptedPetMutationShard.png" },
     { "name": "Raiju", "image": "https://static.wikia.nocookie.net/growagarden/images/0/0d/Raiju.png" }
   ],
-  "message": "New corrupted update!"
+  "message": "New items"
 }
   
