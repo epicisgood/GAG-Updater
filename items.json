@@ -70,6 +70,7 @@
     { "name": "Anti Bee Egg", "image": "../../images/GearCrafting/Anti Bee Egg.webp" },
     { "name": "Small Toy", "image": "../../images/GearCrafting/Small Toy.webp" },
     { "name": "Small Treat", "image": "../../images/GearCrafting/Small Treat.webp" },
+    { "name": "Pet Pouch", "image": "../../images/GearCrafting/Pet Pouch.webp" },
     { "name": "Pack Bee", "image": "../../images/GearCrafting/Pack Bee.webp" }
   ],
   "SeedCrafting": [
