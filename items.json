@@ -55,7 +55,7 @@
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
   "GearCrafting": [
-    { "name": "Lighting Rod", "image": "../../images/GearCrafting/Lighting Rod.webp" },
+    { "name": "Lightning Rod", "image": "../../images/GearCrafting/Lightning Rod.webp" },
     { "name": "Tanning Mirror", "image": "../../images/GearCrafting/Tanning Mirror.webp" },
     { "name": "Reclaimer", "image": "../../images/GearCrafting/Reclaimer.webp" },
     { "name": "Tropical Mist Sprinkler", "image": "../../images/GearCrafting/Tropical Mist Sprinkler.webp" },
