@@ -40,6 +40,7 @@
     { "name": "Magnifying Glass", "image": "../../images/Gears/Magnifying Glass.webp" },
     { "name": "Master Sprinkler", "image": "../../images/Gears/Master Sprinkler.webp" },
     { "name": "Cleaning Spray", "image": "../../images/Gears/Cleaning Spray.webp" },
+    { "name": "Cleansing Pet Shard", "image": "https://static.wikia.nocookie.net/growagarden/images/1/18/CleansingPetShard.webp" },  
     { "name": "Favorite Tool", "image": "../../images/Gears/Favorite Tool.webp" },
     { "name": "Harvest Tool", "image": "../../images/Gears/Harvest Tool.webp" },
     { "name": "Friendship Pot", "image": "../../images/Gears/Friendship Pot.webp" },
