@@ -46,12 +46,12 @@
     { "name": "Grandmaster Sprinkler", "image": "../../images/Gears/Grandmaster Sprinkler.webp" },
     { "name": "Levelup Lollipop", "image": "../../images/Gears/Levelup Lollipop.webp" }
   ],
-  "Eggs": [
+   "Eggs": [
     { "name": "Common Egg", "image": "../../images/Eggs/Common Egg.webp" },
-    { "name": "Common Summer Egg", "image": "../../images/Eggs/Common Summer Egg.webp" },
-    { "name": "Rare Summer Egg", "image": "../../images/Eggs/Rare Summer Egg.webp" },
+    { "name": "Uncommon Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/0/0c/Uncommon_Egg.webp" },
+    { "name": "Rare Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/2/23/RareEgg.png" },
+    { "name": "Legendary Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/6/63/Legendary_Egg.webp" },
     { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" },
-    { "name": "Paradise Egg", "image": "../../images/Eggs/Paradise Egg.webp" },
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
   "GearCrafting": [
