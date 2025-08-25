@@ -40,7 +40,7 @@
     { "name": "Magnifying Glass", "image": "../../images/Gears/Magnifying Glass.webp" },
     { "name": "Master Sprinkler", "image": "../../images/Gears/Master Sprinkler.webp" },
     { "name": "Cleaning Spray", "image": "../../images/Gears/Cleaning Spray.webp" },
-    { "name": "Cleansing Pet Shard", "image": "https://static.wikia.nocookie.net/growagarden/images/1/18/CleansingPetShard.webp" },  
+    { "name": "Cleansing Pet Shard", "image": "../../images/Gears/Cleansing Pet Shard.webp" },  
     { "name": "Favorite Tool", "image": "../../images/Gears/Favorite Tool.webp" },
     { "name": "Harvest Tool", "image": "../../images/Gears/Harvest Tool.webp" },
     { "name": "Friendship Pot", "image": "../../images/Gears/Friendship Pot.webp" },
@@ -49,9 +49,9 @@
   ],
    "Eggs": [
     { "name": "Common Egg", "image": "../../images/Eggs/Common Egg.webp" },
-    { "name": "Uncommon Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/0/0c/Uncommon_Egg.webp" },
-    { "name": "Rare Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/2/23/RareEgg.png" },
-    { "name": "Legendary Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/6/63/Legendary_Egg.webp" },
+    { "name": "Uncommon Egg", "image": "../../images/Eggs/Uncommon Egg.webp" },
+    { "name": "Rare Egg", "image": "../../images/Eggs/Rare Egg.webp" },
+    { "name": "Legendary Egg", "image": "../../images/Eggs/Legendary Egg.webp" },
     { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" },
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
