@@ -71,6 +71,7 @@
     { "name": "Pack Bee", "image": "../../images/GearCrafting/Pack Bee.webp" }
   ],
   "SeedCrafting": [
+    { "name": "Mandrake", "image": "../../images/SeedCrafting/Mandrake.webp" },
     { "name": "Twisted Tangle", "image": "../../images/SeedCrafting/Twisted Tangle.webp" },
     { "name": "Veinpetal", "image": "../../images/SeedCrafting/Veinpetal.webp" },
     { "name": "Horsetail", "image": "../../images/SeedCrafting/Horsetail.webp" },
