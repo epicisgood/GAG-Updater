@@ -28,7 +28,10 @@
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" }
   ],
   "Seeds2": [
-    { "name": "Broccoli", "image": "../../images/Seeds2/Broccoli.webp" }
+    { "name": "Broccoli", "image": "../../images/Seeds2/Broccoli.webp" },
+    { "name": "Potato", "image": "../../images/Seeds2/Potato.webp" },
+    { "name": "Brussels Sprout", "image": "../../images/Seeds2/Brussels Sprout.webp" },
+    { "name": "Cocomango", "image": "../../images/Seeds2/Cocomango.webp" },
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
