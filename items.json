@@ -27,6 +27,9 @@
     { "name": "Elder Strawberry Seed", "image": "../../images/Seeds/Elder Strawberry Seed.webp" },
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" }
   ],
+  "Seeds2": [
+    { "name": "Broccoli", "image": "../../images/Seeds2/Broccoli.webp" }
+  ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
     { "name": "Trading Ticket", "image": "../../images/Gears/Trading Ticket.webp" },
