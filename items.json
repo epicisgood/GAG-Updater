@@ -61,6 +61,10 @@
     { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" },
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
+  "Eggs2": [
+    { "name": "Pet Name Reroller", "image": "../../images/Eggs2/Pet Name Reroller.webp" },
+    { "name": "Pet Lead", "image": "../../images/Eggs2/Pet Lead.webp" }
+  ],
   "GearCrafting": [
     { "name": "Lightning Rod", "image": "../../images/GearCrafting/Lightning Rod.webp" },
     { "name": "Tanning Mirror", "image": "../../images/GearCrafting/Tanning Mirror.webp" },
