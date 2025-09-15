@@ -89,33 +89,33 @@
     { "name": "Amber Spine", "image": "../../images/SeedCrafting/Amber Spine.webp" }
   ],
   "fallSeeds" : [
-    { "name": "Turnip", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Parsley", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Meyer Lemon", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Carnival Pumpkin", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Kniphofia", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Golden Peach", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Maple Resin", "image": "../../images/SeedCrafting/Mandrake.webp" }
+    { "name": "Turnip", "image": "../../images/fallSeeds/Turnip.webp" },
+    { "name": "Parsley", "image": "../../images/fallSeeds/Parsley.webp" },
+    { "name": "Meyer Lemon", "image": "../../images/fallSeeds/Meyer Lemon.webp" },
+    { "name": "Carnival Pumpkin", "image": "../../images/fallSeeds/Carnival Pumpkin.webp" },
+    { "name": "Kniphofia", "image": "../../images/fallSeeds/Kniphofia.webp" },
+    { "name": "Golden Peach", "image": "../../images/fallSeeds/Golden Peach.webp" },
+    { "name": "Maple Resin", "image": "../../images/fallSeeds/Maple Resin.webp" }
   ],
   "fallGears" : [
-    { "name": "Firefly Jar", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Sky Lantern", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Maple Leaf Kite", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Leaf Blower", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Maple Syrup", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Maple Sprinkler", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Bonfire", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Harvest Basket", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Maple Leaf Charm", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Golden Acorn", "image": "../../images/SeedCrafting/Mandrake.webp" }
+    { "name": "Firefly Jar", "image": "../../images/fallGears/Firefly Jar.webp" },
+    { "name": "Sky Lantern", "image": "../../images/fallGears/Sky Lantern.webp" },
+    { "name": "Maple Leaf Kite", "image": "../../images/fallGears/Maple Leaf Kite.webp" },
+    { "name": "Leaf Blower", "image": "../../images/fallGears/Leaf Blower.webp" },
+    { "name": "Maple Syrup", "image": "../../images/fallGears/Maple Syrup.webp" },
+    { "name": "Maple Sprinkler", "image": "../../images/fallGears/Maple Sprinkler.webp" },
+    { "name": "Bonfire", "image": "../../images/fallGears/Bonfire.webp" },
+    { "name": "Harvest Basket", "image": "../../images/fallGears/Harvest Basket.webp" },
+    { "name": "Maple Leaf Charm", "image": "../../images/fallGears/Maple Leaf Charm.webp" },
+    { "name": "Golden Acorn", "image": "../../images/fallGears/Golden Acorn.webp" }
   ],
   "fallPets" : [
-    { "name": "Fall Egg", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Chipmunk", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Red Squirrel", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Marmot", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Sugar Glider", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Space Squirrel ", "image": "../../images/SeedCrafting/Mandrake.webp" }
+    { "name": "Fall Egg", "image": "../../images/fallPets/Fall Egg.webp" },
+    { "name": "Chipmunk", "image": "../../images/fallPets/Chipmunk.webp" },
+    { "name": "Red Squirrel", "image": "../../images/fallPets/Red Squirrel.webp" },
+    { "name": "Marmot", "image": "../../images/fallPets/Marmot.webp" },
+    { "name": "Sugar Glider", "image": "../../images/fallPets/Sugar Glider.webp" },
+    { "name": "Space Squirrel ", "image": "../../images/fallPets/Space Squirrel.webp" }
   ],
   "message": "test!"
 }
