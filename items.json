@@ -88,8 +88,34 @@
     { "name": "Lingonberry", "image": "../../images/SeedCrafting/Lingonberry.webp" },
     { "name": "Amber Spine", "image": "../../images/SeedCrafting/Amber Spine.webp" }
   ],
-  "Events": [
-    
+  "fallSeeds" : [
+    { "name": "Turnip", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Parsley", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Meyer Lemon", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Carnival Pumpkin", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Kniphofia", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Golden Peach", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Maple Resin", "image": "../../images/SeedCrafting/Mandrake.webp" },
+  ],
+  "fallGears" : [
+    { "name": "Firefly Jar", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Sky Lantern", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Maple Leaf Kite", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Leaf Blower", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Maple Syrup", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Maple Sprinkler", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Bonfire", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Harvest Basket", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Maple Leaf Charm", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Golden Acorn", "image": "../../images/SeedCrafting/Mandrake.webp" },
+  ],
+  "fallPets" : [
+    { "name": "Fall Egg", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Chipmunk", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Red Squirrel", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Marmot", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Sugar Glider", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Space Squirrel ", "image": "../../images/SeedCrafting/Mandrake.webp" },
   ],
   "message": "1000 server members!"
 }
