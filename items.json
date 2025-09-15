@@ -95,7 +95,7 @@
     { "name": "Carnival Pumpkin", "image": "../../images/SeedCrafting/Mandrake.webp" },
     { "name": "Kniphofia", "image": "../../images/SeedCrafting/Mandrake.webp" },
     { "name": "Golden Peach", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Maple Resin", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Maple Resin", "image": "../../images/SeedCrafting/Mandrake.webp" }
   ],
   "fallGears" : [
     { "name": "Firefly Jar", "image": "../../images/SeedCrafting/Mandrake.webp" },
@@ -107,7 +107,7 @@
     { "name": "Bonfire", "image": "../../images/SeedCrafting/Mandrake.webp" },
     { "name": "Harvest Basket", "image": "../../images/SeedCrafting/Mandrake.webp" },
     { "name": "Maple Leaf Charm", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Golden Acorn", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Golden Acorn", "image": "../../images/SeedCrafting/Mandrake.webp" }
   ],
   "fallPets" : [
     { "name": "Fall Egg", "image": "../../images/SeedCrafting/Mandrake.webp" },
@@ -115,7 +115,7 @@
     { "name": "Red Squirrel", "image": "../../images/SeedCrafting/Mandrake.webp" },
     { "name": "Marmot", "image": "../../images/SeedCrafting/Mandrake.webp" },
     { "name": "Sugar Glider", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Space Squirrel ", "image": "../../images/SeedCrafting/Mandrake.webp" },
+    { "name": "Space Squirrel ", "image": "../../images/SeedCrafting/Mandrake.webp" }
   ],
   "message": "1000 server members!"
 }
