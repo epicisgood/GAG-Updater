@@ -115,7 +115,7 @@
     { "name": "Red Squirrel", "image": "../../images/fallPets/Red Squirrel.webp" },
     { "name": "Marmot", "image": "../../images/fallPets/Marmot.webp" },
     { "name": "Sugar Glider", "image": "../../images/fallPets/Sugar Glider.webp" },
-    { "name": "Space Squirrel ", "image": "../../images/fallPets/Space Squirrel.webp" }
+    { "name": "Space Squirrel", "image": "../../images/fallPets/Space Squirrel.webp" }
   ],
   "message": "test!"
 }
