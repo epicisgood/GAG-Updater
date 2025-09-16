@@ -124,6 +124,8 @@
     { "name": "Flying Kite", "image": "../../images/fallCosmetics/Flying Kite.webp" },
     { "name": "Fall Fountain", "image": "../../images/fallCosmetics/Fall Fountain.webp" }
   ],
+  "events": [
+  ],
   "message": "Share macro around!"
 }
   
