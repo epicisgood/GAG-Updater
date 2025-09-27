@@ -61,7 +61,7 @@
     { "name": "Rare Egg", "image": "../../images/Eggs/Rare Egg.webp" },
     { "name": "Legendary Egg", "image": "../../images/Eggs/Legendary Egg.webp" },
     { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" },
-    { "name": "Jungle Egg", "image": "../../images/Eggs/Jungle Egg.webp" },
+    { "name": "Jungle Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/c/c9/Jungle_Egg.png" },
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
   "Eggs2": [
