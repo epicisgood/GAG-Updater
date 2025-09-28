@@ -73,10 +73,7 @@
     { "name": "Tanning Mirror", "image": "../../images/GearCrafting/Tanning Mirror.webp" },
     { "name": "Reclaimer", "image": "../../images/GearCrafting/Reclaimer.webp" },
     { "name": "Event Lantern", "image": "../../images/GearCrafting/Event Lantern.webp" },
-    { "name": "Mutation Spray Glimmering", "image": "../../images/GearCrafting/Mutation Spray Glimmering.webp" },
     { "name": "Mutation Spray Choc", "image": "../../images/GearCrafting/Mutation Spray Choc.webp" },
-    { "name": "Mutation Spray Chilled", "image": "../../images/GearCrafting/Mutation Spray Chilled.webp" },
-    { "name": "Mutation Spray Shocked", "image": "../../images/GearCrafting/Mutation Spray Shocked.webp" },
     { "name": "Anti Bee Egg", "image": "../../images/GearCrafting/Anti Bee Egg.webp" },
     { "name": "Small Toy", "image": "../../images/GearCrafting/Small Toy.webp" },
     { "name": "Small Treat", "image": "../../images/GearCrafting/Small Treat.webp" },
@@ -102,6 +99,6 @@
 
   ],
   
-  "message": "Share macro around!"
+  "message": "Event Update Soon!"
 }
   
