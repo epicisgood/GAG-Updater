@@ -26,7 +26,7 @@
     { "name": "Giant Pinecone Seed", "image": "../../images/Seeds/Giant Pinecone Seed.webp" },
     { "name": "Elder Strawberry Seed", "image": "../../images/Seeds/Elder Strawberry Seed.webp" },
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" },
-    { "name": "Crimson Thorn", "image": "https://static.wikia.nocookie.net/growagarden/images/f/f2/CrimsonThornProduce.png" }
+    { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" }
  
   ],
   "Seeds2": [
@@ -61,7 +61,7 @@
     { "name": "Rare Egg", "image": "../../images/Eggs/Rare Egg.webp" },
     { "name": "Legendary Egg", "image": "../../images/Eggs/Legendary Egg.webp" },
     { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" },
-    { "name": "Jungle Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/c/c9/Jungle_Egg.png" },
+    { "name": "Jungle Egg", "image": "../../images/Eggs/Jungle Egg.webp" },
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
   "Eggs2": [
