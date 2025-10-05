@@ -81,23 +81,16 @@
   ],
   "SeedCrafting": [
     { "name": "Mandrake", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Twisted Tangle", "image": "../../images/SeedCrafting/Twisted Tangle.webp" },
-    { "name": "Veinpetal", "image": "../../images/SeedCrafting/Veinpetal.webp" },
-    { "name": "Horsetail", "image": "../../images/SeedCrafting/Horsetail.webp" },
-    { "name": "Lingonberry", "image": "../../images/SeedCrafting/Lingonberry.webp" },
-    { "name": "Amber Spine", "image": "../../images/SeedCrafting/Amber Spine.webp" }
+    { "name": "Evo Apple I", "image": "../../images/SeedCrafting/Evo Apple I.webp" }
+    { "name": "Evo Apple II", "image": "../../images/SeedCrafting/Evo Apple II.webp" }
+    { "name": "Evo Apple III", "image": "../../images/SeedCrafting/Evo Apple III.webp" }
+    { "name": "Evo Apple IV", "image": "../../images/SeedCrafting/Evo Apple IV.webp" }
   ],
   "Events": [
-    
   ],
   "EvoSeeds": [
-    { "name": "Evo Beetroot", "image": "../../images/EvoSeeds/Evo Beetroot.webp" },
-    { "name": "Evo Blueberry", "image": "../../images/EvoSeeds/Evo Blueberry.webp" },
-    { "name": "Evo Pumpkin", "image": "../../images/EvoSeeds/Evo Pumpkin.webp" },
-    { "name": "Evo Mushroom", "image": "../../images/EvoSeeds/Evo Mushroom.webp" }
-
   ],
   
-  "message": "Mutation Srpay Choc removed!"
+  "message": "Hi guys!"
 }
   
