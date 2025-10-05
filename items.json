@@ -81,9 +81,9 @@
   ],
   "SeedCrafting": [
     { "name": "Mandrake", "image": "../../images/SeedCrafting/Mandrake.webp" },
-    { "name": "Evo Apple I", "image": "../../images/SeedCrafting/Evo Apple I.webp" }
-    { "name": "Evo Apple II", "image": "../../images/SeedCrafting/Evo Apple II.webp" }
-    { "name": "Evo Apple III", "image": "../../images/SeedCrafting/Evo Apple III.webp" }
+    { "name": "Evo Apple I", "image": "../../images/SeedCrafting/Evo Apple I.webp" },
+    { "name": "Evo Apple II", "image": "../../images/SeedCrafting/Evo Apple II.webp" },
+    { "name": "Evo Apple III", "image": "../../images/SeedCrafting/Evo Apple III.webp" },
     { "name": "Evo Apple IV", "image": "../../images/SeedCrafting/Evo Apple IV.webp" }
   ],
   "Events": [
