@@ -92,8 +92,8 @@
     { "name": "Silver Fertillizer", "image": "../../images/SeasonPass/Silver Fertillizer.webp" },
     { "name": "Prime Seed Pack", "image": "../../images/SeasonPass/Prime Seed Pack.webp" },
     { "name": "Levelup Lollipop", "image": "../../images/Gears/Levelup Lollipop.webp" },
-    { "name": "Grow All", "image": "../../images/Gears/Grow All.webp" },
-    { "name": "Naval Wort", "image": "../../images/Gears/Naval Wort.webp" }
+    { "name": "Grow All", "image": "../../images/SeasonPass/Grow All.webp" },
+    { "name": "Naval Wort", "image": "../../images/SeasonPass/Naval Wort.webp" }
   ],
   "Events": [
   ],
