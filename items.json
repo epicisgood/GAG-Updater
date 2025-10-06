@@ -86,6 +86,15 @@
     { "name": "Evo Apple III", "image": "../../images/SeedCrafting/Evo Apple III.webp" },
     { "name": "Evo Apple IV", "image": "../../images/SeedCrafting/Evo Apple IV.webp" }
   ],
+  "SeasonPass" : [
+    { "name": "Prime Crate", "image": "../../images/SeasonPass/Prime Crate.webp" },
+    { "name": "Egg Yolk Mat", "image": "../../images/SeasonPass/Egg Yolk Mat.webp" },
+    { "name": "Silver Fertillizer", "image": "../../images/SeasonPass/Silver Fertillizer.webp" },
+    { "name": "Prime Seed Pack", "image": "../../images/SeasonPass/Prime Seed Pack.webp" },
+    { "name": "Levelup Lollipop", "image": "../../images/Gears/Levelup Lollipop.webp" },
+    { "name": "Grow All", "image": "../../images/Gears/Grow All.webp" },
+    { "name": "Naval Wort", "image": "../../images/Gears/Naval Wort.webp" }
+  ],
   "Events": [
   ],
   "EvoSeeds": [
