@@ -92,9 +92,13 @@
     { "name": "Grow All", "image": "../../images/SeasonPass/Grow All.webp" },
     { "name": "Naval Wort", "image": "../../images/SeasonPass/Naval Wort.webp" }
   ],
-  "Events": [
-  ],
   "EvoSeeds": [
+  ],
+  "SpookySeeds": [
+  ],
+  "CreepyCritters": [
+  ],
+  "DevillishDecor": [
   ],
   
   "message": "Hi guys!"
