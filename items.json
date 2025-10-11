@@ -26,7 +26,8 @@
     { "name": "Giant Pinecone Seed", "image": "../../images/Seeds/Giant Pinecone Seed.webp" },
     { "name": "Elder Strawberry Seed", "image": "../../images/Seeds/Elder Strawberry Seed.webp" },
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" },
-    { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" }
+    { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
+    { "name": "Great Pumpkin", "image": "https://static.wikia.nocookie.net/growagarden/images/b/b5/Greatpumpkincrop.png" }
  
   ],
   "Seeds2": [
