@@ -40,6 +40,8 @@
     { "name": "Basic Sprinkler", "image": "../../images/Gears/Basic Sprinkler.webp" },
     { "name": "Advanced Sprinkler", "image": "../../images/Gears/Advanced Sprinkler.webp" },
     { "name": "Medium Toy", "image": "../../images/Gears/Medium Toy.webp" },
+    { "name": "Pet Name Reroller", "image": "../../images/Eggs2/Pet Name Reroller.webp" },
+    { "name": "Pet Lead", "image": "../../images/Eggs2/Pet Lead.webp" },    
     { "name": "Medium Treat", "image": "../../images/Gears/Medium Treat.webp" },
     { "name": "Godly Sprinkler", "image": "../../images/Gears/Godly Sprinkler.webp" },
     { "name": "Magnifying Glass", "image": "../../images/Gears/Magnifying Glass.webp" },
@@ -62,8 +64,6 @@
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
   "Eggs2": [
-    { "name": "Pet Name Reroller", "image": "../../images/Eggs2/Pet Name Reroller.webp" },
-    { "name": "Pet Lead", "image": "../../images/Eggs2/Pet Lead.webp" }
   ],
   "GearCrafting": [
     { "name": "Lightning Rod", "image": "../../images/GearCrafting/Lightning Rod.webp" },
