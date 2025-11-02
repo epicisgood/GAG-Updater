@@ -28,9 +28,6 @@
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" },
     { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
     { "name": "Trinity Fruit", "image": "https://static.wikia.nocookie.net/growagarden/images/f/f7/TrinityFruit.png" }
- 
-  ],
-  "Seeds2": [
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
@@ -63,8 +60,6 @@
     { "name": "Jungle Egg", "image": "../../images/Eggs/Jungle Egg.webp" },
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" }
   ],
-  "Eggs2": [
-  ],
   "GearCrafting": [
     { "name": "Lightning Rod", "image": "../../images/GearCrafting/Lightning Rod.webp" },
     { "name": "Tanning Mirror", "image": "../../images/GearCrafting/Tanning Mirror.webp" },
@@ -92,7 +87,17 @@
     { "name": "Grow All", "image": "../../images/SeasonPass/Grow All.webp" },
     { "name": "Naval Wort", "image": "../../images/SeasonPass/Naval Wort.webp" }
   ],
-  "EvoSeeds": [
+  "SafariShop": [
+    { "name": "Orange Delight", "image": "../../images/SafariShop/Orange Delight.webp" },
+    { "name": "Explorers Compass", "image": "../../images/SafariShop/Explorers Compass.webp" },
+    { "name": "Safari Crate", "image": "../../images/SafariShop/Safari Crate.webp" },
+    { "name": "Zebra Whistle", "image": "../../images/SafariShop/Zebra Whistle.webp" },
+    { "name": "Safari Egg", "image": "../../images/SafariShop/Safari Egg.webp" },
+    { "name": "Protea", "image": "../../images/SafariShop/Protea.webp" },
+    { "name": "Lush Sprinkler", "image": "../../images/SafariShop/Lush Sprinkler.webp" },
+    { "name": "Mini Shipping Container", "image": "../../images/SafariShop/Mini Shipping Container.webp" },
+    { "name": "Safari Totem Charm", "image": "../../images/SafariShop/Safari Totem Charm.webp" },
+    { "name": "Baobab", "image": "../../images/SafariShop/Baobab.webp" }
   ],
   "SpookySeeds": [
   ],
@@ -101,6 +106,6 @@
   "DevillishDecor": [
   ],
   
-  "message": "Gear Shop Fixed!"
+  "message": "Share macro since its op!"
 }
   
