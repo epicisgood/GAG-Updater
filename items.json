@@ -3,7 +3,7 @@
     { "name": "Carrot Seed", "image": "../../images/Seeds/Carrot Seed.webp" },
     { "name": "Strawberry Seed", "image": "../../images/Seeds/Strawberry Seed.webp" },
     { "name": "Blueberry Seed", "image": "../../images/Seeds/Blueberry Seed.webp" },
-    { "name": "Buttercup Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/c/c6/Buttercup.png" },
+    { "name": "Buttercup Seed", "image": "../../images/Seeds/Buttercup.webp" },
     { "name": "Tomato Seed", "image": "../../images/Seeds/Tomato Seed.webp" },
     { "name": "Corn Seed", "image": "../../images/Seeds/Corn Seed.webp" },
     { "name": "Daffodll Seed", "image": "../../images/Seeds/Daffodll Seed.webp" },
@@ -27,7 +27,7 @@
     { "name": "Elder Strawberry Seed", "image": "../../images/Seeds/Elder Strawberry Seed.webp" },
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" },
     { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
-    { "name": "Trinity Fruit", "image": "https://static.wikia.nocookie.net/growagarden/images/f/f7/TrinityFruit.png" }
+    { "name": "Trinity Fruit", "image": "../../images/Seeds/Trinity Fruit.webp" }
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
