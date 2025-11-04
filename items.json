@@ -97,7 +97,8 @@
     { "name": "Lush Sprinkler", "image": "../../images/SafariShop/Lush Sprinkler.webp" },
     { "name": "Mini Shipping Container", "image": "../../images/SafariShop/Mini Shipping Container.webp" },
     { "name": "Safari Totem Charm", "image": "../../images/SafariShop/Safari Totem Charm.webp" },
-    { "name": "Baobab", "image": "../../images/SafariShop/Baobab.webp" }
+    { "name": "Baobab", "image": "../../images/SafariShop/Baobab.webp" },
+    { "name": "Pet Shard JUMBO", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" }
   ],
   "SpookySeeds": [
   ],
