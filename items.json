@@ -31,27 +31,27 @@
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
-    { "name": "Trading Ticket", "image": "../../images/Gears/Trading Ticket.webp" },
-    { "name": "Trowel", "image": "../../images/Gears/Trowel.webp" },
-    { "name": "Recall Wrench", "image": "../../images/Gears/Recall Wrench.webp" },
     { "name": "Basic Sprinkler", "image": "../../images/Gears/Basic Sprinkler.webp" },
     { "name": "Advanced Sprinkler", "image": "../../images/Gears/Advanced Sprinkler.webp" },
+    { "name": "Godly Sprinkler", "image": "../../images/Gears/Godly Sprinkler.webp" },
+    { "name": "Master Sprinkler", "image": "../../images/Gears/Master Sprinkler.webp" },
+    { "name": "Grandmaster Sprinkler", "image": "../../images/Gears/Grandmaster Sprinkler.webp" },
+    { "name": "Trowel", "image": "../../images/Gears/Trowel.webp" },
+    { "name": "Recall Wrench", "image": "../../images/Gears/Recall Wrench.webp" },
     { "name": "Medium Toy", "image": "../../images/Gears/Medium Toy.webp" },
     { "name": "Pet Name Reroller", "image": "../../images/Gears/Pet Name Reroller.webp" },
-    { "name": "Pet Lead", "image": "../../images/Gears/Pet Lead.webp" },    
+    { "name": "Pet Lead", "image": "../../images/Gears/Pet Lead.webp" },
     { "name": "Medium Treat", "image": "../../images/Gears/Medium Treat.webp" },
-    { "name": "Godly Sprinkler", "image": "../../images/Gears/Godly Sprinkler.webp" },
     { "name": "Magnifying Glass", "image": "../../images/Gears/Magnifying Glass.webp" },
-    { "name": "Master Sprinkler", "image": "../../images/Gears/Master Sprinkler.webp" },
     { "name": "Cleaning Spray", "image": "../../images/Gears/Cleaning Spray.webp" },
-    { "name": "Cleansing Pet Shard", "image": "../../images/Gears/Cleansing Pet Shard.webp" },  
+    { "name": "Cleansing Pet Shard", "image": "../../images/Gears/Cleansing Pet Shard.webp" },
     { "name": "Favorite Tool", "image": "../../images/Gears/Favorite Tool.webp" },
     { "name": "Harvest Tool", "image": "../../images/Gears/Harvest Tool.webp" },
     { "name": "Friendship Pot", "image": "../../images/Gears/Friendship Pot.webp" },
-    { "name": "Grandmaster Sprinkler", "image": "../../images/Gears/Grandmaster Sprinkler.webp" },
-    { "name": "Levelup Lollipop", "image": "../../images/Gears/Levelup Lollipop.webp" }
+    { "name": "Levelup Lollipop", "image": "../../images/Gears/Levelup Lollipop.webp" },
+    { "name": "Trading Ticket", "image": "../../images/Gears/Trading Ticket.webp" }
   ],
-   "Eggs": [
+  "Eggs": [
     { "name": "Common Egg", "image": "../../images/Eggs/Common Egg.webp" },
     { "name": "Uncommon Egg", "image": "../../images/Eggs/Uncommon Egg.webp" },
     { "name": "Rare Egg", "image": "../../images/Eggs/Rare Egg.webp" },
@@ -78,14 +78,14 @@
     { "name": "Evo Apple III", "image": "../../images/SeedCrafting/Evo Apple III.webp" },
     { "name": "Evo Apple IV", "image": "../../images/SeedCrafting/Evo Apple IV.webp" }
   ],
-  "SeasonPass" : [
-    { "name": "Prime Crate", "image": "../../images/SeasonPass/Prime Crate.webp" },
-    { "name": "Egg Yolk Mat", "image": "../../images/SeasonPass/Egg Yolk Mat.webp" },
-    { "name": "Silver Fertillizer", "image": "../../images/SeasonPass/Silver Fertillizer.webp" },
-    { "name": "Prime Seed Pack", "image": "../../images/SeasonPass/Prime Seed Pack.webp" },
-    { "name": "Levelup Lollipop", "image": "../../images/Gears/Levelup Lollipop.webp" },
+  "SeasonPass": [
+    { "name": "Zenith Crate", "image": "../../images/SeasonPass/Zenith Crate.webp" },
+    { "name": "Mossy Rock", "image": "../../images/SeasonPass/Mossy Rock.webp" },
+    { "name": "Silver Fertilizer", "image": "../../images/SeasonPass/Silver Fertilizer.webp" },
+    { "name": "Zenith Seed Pack", "image": "../../images/SeasonPass/Zenith Seed Pack.webp" },
+    { "name": "Levelup Lollipop_", "image": "../../images/Gears/Levelup Lollipop.webp" },
     { "name": "Grow All", "image": "../../images/SeasonPass/Grow All.webp" },
-    { "name": "Naval Wort", "image": "../../images/SeasonPass/Naval Wort.webp" }
+    { "name": "Wyrmvine", "image": "../../images/SeasonPass/Wyrmvine.webp" }
   ],
   "SafariShop": [
     { "name": "Orange Delight", "image": "../../images/SafariShop/Orange Delight.webp" },
@@ -100,13 +100,9 @@
     { "name": "Baobab", "image": "../../images/SafariShop/Baobab.webp" },
     { "name": "Pet Shard JUMBO", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" }
   ],
-  "SpookySeeds": [
-  ],
-  "CreepyCritters": [
-  ],
-  "DevillishDecor": [
-  ],
-  
+  "SpookySeeds": [],
+  "CreepyCritters": [],
+  "DevillishDecor": [],
+
   "message": "Share macro since its op!"
 }
-  
