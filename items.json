@@ -98,7 +98,17 @@
     { "name": "Mini Shipping Container", "image": "../../images/SafariShop/Mini Shipping Container.webp" },
     { "name": "Safari Totem Charm", "image": "../../images/SafariShop/Safari Totem Charm.webp" },
     { "name": "Baobab", "image": "../../images/SafariShop/Baobab.webp" },
-    { "name": "Pet Shard JUMBO", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" }
+    { "name": "Pet Shard JUMBO", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Safari Seed Pack", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Savannah Crate", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Gecko", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Hyena", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Cape Buffalo", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Hippo", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Ancestral Horn", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Crocodile", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Safari Obelisk Charm", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" },
+    { "name": "Lion", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2d/PMSGiantbean.png" }
   ],
   "SpookySeeds": [],
   "CreepyCritters": [],
