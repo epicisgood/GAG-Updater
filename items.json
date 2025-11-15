@@ -19,6 +19,7 @@
     { "name": "Mushroom Seed", "image": "../../images/Seeds/Mushroom Seed.webp" },
     { "name": "Pepper Seed", "image": "../../images/Seeds/Pepper Seed.webp" },
     { "name": "Cacao Seed", "image": "../../images/Seeds/Cacao Seed.webp" },
+    { "name": "Sunflower Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/3/31/SunflowerNew.png" },   
     { "name": "Beanstalk Seed", "image": "../../images/Seeds/Beanstalk Seed.webp" },
     { "name": "Ember Lily", "image": "../../images/Seeds/Ember Lily.webp" },
     { "name": "Sugar Apple", "image": "../../images/Seeds/Sugar Apple.webp" },
@@ -27,8 +28,8 @@
     { "name": "Elder Strawberry Seed", "image": "../../images/Seeds/Elder Strawberry Seed.webp" },
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" },
     { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
-    { "name": "Zebrazinkle", "image": "https://static.wikia.nocookie.net/growagarden/images/9/98/Zebrazinkle.png" },
-    { "name": "Trinity Fruit", "image": "../../images/Seeds/Trinity Fruit.webp" }
+    { "name": "Zebrazinkle", "image": "https://static.wikia.nocookie.net/growagarden/images/9/98/Zebrazinkle.png" }
+
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
