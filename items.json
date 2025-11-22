@@ -60,8 +60,8 @@
     { "name": "Rare Egg", "image": "../../images/Eggs/Rare Egg.webp" },
     { "name": "Legendary Egg", "image": "../../images/Eggs/Legendary Egg.webp" },
     { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" },
-    { "name": "Jungle Egg", "image": "../../images/Eggs/Jungle Egg.webp" },
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" },
+    { "name": "Jungle Egg", "image": "../../images/Eggs/Jungle Egg.webp" },    
     { "name": "Gem Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2a/GemEgg.webp" }
   ],
   "GearCrafting": [
