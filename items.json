@@ -19,7 +19,7 @@
     { "name": "Mushroom Seed", "image": "../../images/Seeds/Mushroom Seed.webp" },
     { "name": "Pepper Seed", "image": "../../images/Seeds/Pepper Seed.webp" },
     { "name": "Cacao Seed", "image": "../../images/Seeds/Cacao Seed.webp" },
-    { "name": "Sunflower Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/3/31/SunflowerNew.png" },   
+    { "name": "Sunflower Seed", "image": "../../images/Seeds/Sunflower Seed.webp" },   
     { "name": "Beanstalk Seed", "image": "../../images/Seeds/Beanstalk Seed.webp" },
     { "name": "Ember Lily", "image": "../../images/Seeds/Ember Lily.webp" },
     { "name": "Sugar Apple", "image": "../../images/Seeds/Sugar Apple.webp" },
@@ -28,8 +28,8 @@
     { "name": "Elder Strawberry Seed", "image": "../../images/Seeds/Elder Strawberry Seed.webp" },
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" },
     { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
-    { "name": "Zebrazinkle", "image": "https://static.wikia.nocookie.net/growagarden/images/9/98/Zebrazinkle.png" },
-    { "name": "Octobloom", "image": "https://static.wikia.nocookie.net/growagarden/images/b/be/OctobloomProduce.png" } 
+    { "name": "Zebrazinkle", "image": "../../images/Seeds/Zebrazinkle.webp" },
+    { "name": "Octobloom", "image": "../../images/Seeds/Octobloom.webp" } 
 
   ],
   "Gears": [
@@ -62,7 +62,7 @@
     { "name": "Mythical Egg", "image": "../../images/Eggs/Mythical Egg.webp" },
     { "name": "Bug Egg", "image": "../../images/Eggs/Bug Egg.webp" },
     { "name": "Jungle Egg", "image": "../../images/Eggs/Jungle Egg.webp" },    
-    { "name": "Gem Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2a/GemEgg.webp" }
+    { "name": "Gem Egg", "image": "../../images/Eggs/Gem Egg.webp" }
   ],
   "GearCrafting": [
     { "name": "Lightning Rod", "image": "../../images/GearCrafting/Lightning Rod.webp" },
