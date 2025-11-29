@@ -73,11 +73,11 @@
     { "name": "Small Toy", "image": "../../images/GearCrafting/Small Toy.webp" },
     { "name": "Small Treat", "image": "../../images/GearCrafting/Small Treat.webp" },
     { "name": "Pet Pouch", "image": "../../images/GearCrafting/Pet Pouch.webp" },
-    { "name": "Pack Bee", "image": "../../images/GearCrafting/Pack Bee.webp" }
-    { "name": "Silver Ingot", "image": "../../images/GearCrafting/Silver Ingot.webp" }
-    { "name": "Gold Ingot", "image": "../../images/GearCrafting/Gold Ingot.webp" }
-    { "name": "Silver Piggy", "image": "../../images/GearCrafting/Silver Piggy.webp" }
-    { "name": "Golden Piggy", "image": "../../images/GearCrafting/Golden Piggy.webp" }
+    { "name": "Pack Bee", "image": "../../images/GearCrafting/Pack Bee.webp" },
+    { "name": "Silver Ingot", "image": "../../images/GearCrafting/Silver Ingot.webp" },
+    { "name": "Gold Ingot", "image": "../../images/GearCrafting/Gold Ingot.webp" },
+    { "name": "Silver Piggy", "image": "../../images/GearCrafting/Silver Piggy.webp" },
+    { "name": "Golden Piggy", "image": "../../images/GearCrafting/Golden Piggy.webp" },
     { "name": "Chimera Stone", "image": "../../images/GearCrafting/Chimera Stone.webp" }
   ],
   "SeedCrafting": [
