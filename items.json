@@ -29,8 +29,8 @@
     { "name": "Romanesco", "image": "../../images/Seeds/Romanesco.webp" },
     { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
     { "name": "Zebrazinkle", "image": "../../images/Seeds/Zebrazinkle.webp" },
-    { "name": "Octobloom", "image": "../../images/Seeds/Octobloom.webp" } 
-
+    { "name": "Octobloom", "image": "../../images/Seeds/Octobloom.webp" }, 
+    { "name": "Peppermint Vine", "image": "https://static.wikia.nocookie.net/growagarden/images/e/e8/PeppermintVineProduct.png" } 
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
