@@ -90,15 +90,16 @@
     { "name": "Hollow Bamboo", "image": "../../images/SeedCrafting/Hollow Bamboo.webp" },
     { "name": "Yarrow", "image": "../../images/SeedCrafting/Yarrow.webp" }
   ],
-  "SeasonPass": [
-    { "name": "Zenith Crate", "image": "../../images/SeasonPass/Zenith Crate.webp" },
-    { "name": "Mossy Rock", "image": "../../images/SeasonPass/Mossy Rock.webp" },
-    { "name": "Silver Fertilizer", "image": "../../images/SeasonPass/Silver Fertilizer.webp" },
-    { "name": "Zenith Seed Pack", "image": "../../images/SeasonPass/Zenith Seed Pack.webp" },
-    { "name": "Levelup Lollipop_", "image": "../../images/Gears/Levelup Lollipop.webp" },
-    { "name": "Grow All", "image": "../../images/SeasonPass/Grow All.webp" },
-    { "name": "Wyrmvine", "image": "../../images/SeasonPass/Wyrmvine.webp" }
-  ],
+
+"SeasonPass": [
+  { "name": "Holiday Crate", "image": "../../images/SeasonPass/Holiday Crate.webp" },
+  { "name": "Hammer of Harvest", "image": "../../images/SeasonPass/Hammer of Harvest.webp" },
+  { "name": "Penguin Statue", "image": "../../images/SeasonPass/Penguin Statue.webp" },
+  { "name": "Holiday Seed Pack", "image": "../../images/SeasonPass/Holiday Seed Pack.webp" },
+  { "name": "Levelup Lollipop_", "image": "../../images/Gears/Levelup Lollipop.webp" },
+  { "name": "Grow All", "image": "../../images/SeasonPass/Grow All.webp" },
+  { "name": "Pollen Cone", "image": "../../images/SeasonPass/Pollen Cone.webp" }
+],
   "SantasStash": [
   { "name": "Christmas Firework", "image": "../../images/SantasStash/Christmas Firework.webp" },
   { "name": "Gift Rat", "image": "../../images/SantasStash/Gift Rat.webp" },
