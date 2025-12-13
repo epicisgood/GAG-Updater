@@ -90,7 +90,7 @@
     { "name": "Yarrow", "image": "../../images/SeedCrafting/Yarrow.webp" }
   ],
 
-"SeasonPass": [
+  "SeasonPass": [
   { "name": "Holiday Crate", "image": "../../images/SeasonPass/Holiday Crate.webp" },
   { "name": "Hammer of Harvest", "image": "../../images/SeasonPass/Hammer of Harvest.webp" },
   { "name": "Penguin Statue", "image": "../../images/SeasonPass/Penguin Statue.webp" },
@@ -101,14 +101,19 @@
 ],
   "SantasStash": [
   { "name": "Christmas Firework", "image": "../../images/SantasStash/Christmas Firework.webp" },
+  { "name": "Christmas Radar", "image": "../../images/SantasStash/Christmas Radar.webp" },
   { "name": "Gift Rat", "image": "../../images/SantasStash/Gift Rat.webp" },
   { "name": "Gift Basket", "image": "../../images/SantasStash/Gift Basket.webp" },
   { "name": "Christmas Crate", "image": "../../images/SantasStash/Christmas Crate.webp" },
   { "name": "Christmas Present", "image": "../../images/SantasStash/Christmas Present.webp" },
   { "name": "Yule Log", "image": "../../images/SantasStash/Yule Log.webp" },
   { "name": "Santas Surprise Present", "image": "../../images/SantasStash/Santas Surprise Present.webp" },
+  { "name": "Hot Chocolate Mug", "image": "../../images/SantasStash/Hot Chocolate Mug.webp" },
   { "name": "Penguin", "image": "../../images/SantasStash/Penguin.webp" },
+  { "name": "Jingle Bells", "image": "../../images/SantasStash/Jingle Bells.webp" },
+  { "name": "Ice Wand", "image": "../../images/SantasStash/Ice Wand.webp" },
   { "name": "Santas Stocking", "image": "../../images/SantasStash/Santas Stocking.webp" },
+  { "name": "Sleigh", "image": "../../images/SantasStash/Sleigh.webp" },
   { "name": "Pet Shard HyperHunger", "image": "../../images/SantasStash/Pet Shard HyperHunger.webp" }
   ],
   "SafariShop": [],
