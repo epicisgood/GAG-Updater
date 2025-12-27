@@ -30,7 +30,7 @@
     { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
     { "name": "Zebrazinkle Seed", "image": "../../images/Seeds/Zebrazinkle.webp" },
     { "name": "Octobloom Seed", "image": "../../images/Seeds/Octobloom.webp" },
-    { "name": "FireWork Fern Seed", "image": "../../images/Seeds/FireWork Fern Seed.webp" }
+    { "name": "Firework Fern Seed", "image": "../../images/Seeds/Firework Fern Seed.webp" }
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
