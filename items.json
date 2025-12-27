@@ -30,8 +30,6 @@
     { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
     { "name": "Zebrazinkle Seed", "image": "../../images/Seeds/Zebrazinkle.webp" },
     { "name": "Octobloom Seed", "image": "../../images/Seeds/Octobloom.webp" },
-    { "name": "Peppermint Vine Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/e/e8/PeppermintVineProduct.png" },
-    { "name": "Reindeer Root Seed", "image": "../../images/Seeds/Reindeer Root Seed.webp" },
     { "name": "FireWork Fern Seed", "image": "../../images/Seeds/FireWork Fern Seed.webp" }
   ],
   "Gears": [
