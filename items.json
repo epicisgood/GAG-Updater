@@ -123,7 +123,7 @@
   ],
   "NewYears": [
   { "name": "Firework", "image": "../../images/NewYears/Firework.webp" },
-  { "name": "New Year's Firework", "image": "../../images/NewYearsS/New Year's Firework.webp" },
+  { "name": "New Years Firework", "image": "../../images/NewYearsS/New Years Firework.webp" },
   { "name": "Dragons Firework", "image": "../../images/NewYears/Dragon's Firework.webp" },
   { "name": "Party Sign", "image": "../../images/NewYears/Party Sign.webp" },
   { "name": "Disco Ball", "image": "../../images/NewYears/Disco Ball.webp" },
