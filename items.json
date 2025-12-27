@@ -32,7 +32,7 @@
     { "name": "Octobloom Seed", "image": "../../images/Seeds/Octobloom.webp" },
     { "name": "Peppermint Vine Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/e/e8/PeppermintVineProduct.png" },
     { "name": "Reindeer Root Seed", "image": "../../images/Seeds/Reindeer Root Seed.webp" },
-    { "name": "Spirit Sparkle Seed", "image": "../../images/Seeds/Spirit Sparkle Seed.webp" }
+    { "name": "FireWork fern Seed", "image": "../../images/Seeds/FireWork fern Seed.webp" }
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
