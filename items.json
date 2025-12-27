@@ -121,6 +121,15 @@
     { "name": "Chamberstick", "image": "../../images/SantasStash/Chamberstick.webp" },
     { "name": "Pet Shard HyperHunger", "image": "../../images/SantasStash/Pet Shard HyperHunger.webp" }
   ],
+  "NewYears": [
+  { "name": "Firework", "image": "../../images/NewYears/Firework.webp" },
+  { "name": "New Year's Firework", "image": "../../images/NewYearsS/New Year's Firework.webp" },
+  { "name": "Dragons Firework", "image": "../../images/NewYears/Dragon's Firework.webp" },
+  { "name": "Party Sign", "image": "../../images/NewYears/Party Sign.webp" },
+  { "name": "Disco Ball", "image": "../../images/NewYears/Disco Ball.webp" },
+  { "name": "Sparkle Slice", "image": "../../images/NewYears/Sparkle Slice.webp" },
+  { "name": "New Years Egg", "image": "../../images/NewYears/New Year's Egg.webp" }
+],
   "SafariShop": [],
   "SpookySeeds": [],
   "CreepyCritters": [],
