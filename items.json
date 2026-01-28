@@ -101,13 +101,6 @@
 ],
   "SantasStash": [],
   "NewYears": [
-    { "name": "Firework", "image": "https://static.wikia.nocookie.net/growagarden/images/2/24/Firework.png" },
-    { "name": "New Years Firework", "image": "https://static.wikia.nocookie.net/growagarden/images/6/60/NewYear%27sFirework.png" },
-    { "name": "Dragons Firework", "image": "https://static.wikia.nocookie.net/growagarden/images/6/66/Dragon%27sFirework.png" },
-    { "name": "Party Sign", "image": "https://static.wikia.nocookie.net/growagarden/images/1/14/PartySign.png" },
-    { "name": "Disco Ball", "image": "https://static.wikia.nocookie.net/growagarden/images/e/e3/DiscoBall.png" },
-    { "name": "Sparkle Slice", "image": "https://static.wikia.nocookie.net/growagarden/images/5/5d/SparkleSliceSeed.png" },
-    { "name": "New Years Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/3/30/NewYearsEgg.png" }
 ],
   "SafariShop": [],
   "SpookySeeds": [],
