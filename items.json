@@ -102,7 +102,7 @@
     { "name": "Pollen Cone", "image": "../../images/SeasonPass/Pollen Cone.webp" }
 ],
   "SantasStash": [],
-  "NewYears": [
+  "EasterSeed": [
     { "name": "Easter Candy Carrot", "image": "../../images/EasterSeedShop/Easter Candy Carrot.webp" },
     { "name": "Easter Chocolate Berry", "image": "../../images/EasterSeedShop/Easter Chocolate Berry.webp" },
     { "name": "Easter Gumball", "image": "../../images/EasterSeedShop/Easter Gumball.webp" },
@@ -114,8 +114,9 @@
     { "name": "Easter Gummy Cactus", "image": "../../images/EasterSeedShop/Easter Gummy Cactus.webp" },
     { "name": "Hootsie Roll", "image": "../../images/EasterSeedShop/Hootsie Roll.webp" },
     { "name": "Easter Sour Lemon", "image": "../../images/EasterSeedShop/Easter Sour Lemon.webp" },
-    { "name": "Easter Eggfruit", "image": "../../images/EasterSeedShop/Easter Eggfruit.webp" }
+    { "name": "Easter Eggfruit", "image": "../../images/EasterSeedShop/Easter Eggfruit.webp" }    
   ],
+  "NewYears": [],
   "SafariShop": [],
   "SpookySeeds": [],
   "CreepyCritters": [],
