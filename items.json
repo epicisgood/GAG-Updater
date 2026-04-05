@@ -30,7 +30,9 @@
     { "name": "Crimson Thorn", "image": "../../images/Seeds/Crimson Thorn.webp" },
     { "name": "Zebrazinkle Seed", "image": "../../images/Seeds/Zebrazinkle.webp" },
     { "name": "Octobloom Seed", "image": "../../images/Seeds/Octobloom.webp" },
-    { "name": "Firework Fern Seed", "image": "https://static.wikia.nocookie.net/growagarden/images/c/cd/FireworkFernProduce.png" }
+    { "name": "Alien Apple Seed", "image": "../../images/Seeds/Alien Apple Seed.webp" },
+    { "name": "Eggsnapper", "image": "../../images/Seeds/Eggsnapper.webp" }
+
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
