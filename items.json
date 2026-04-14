@@ -107,11 +107,13 @@
     { "name": "Easter Chocolate Berry", "image": "../../images/EasterSeedShop/Easter Chocolate Berry.webp" },
     { "name": "Easter Gumball", "image": "../../images/EasterSeedShop/Easter Gumball.webp" },
     { "name": "Easter Liquorice", "image": "../../images/EasterSeedShop/Easter Liquorice.webp" },
+    { "name": "Beaver", "image": "../../images/EasterSeedShop/Beaver.webp" },
     { "name": "Chocolate Sprinkler", "image": "../../images/EasterSeedShop/Chocolate Sprinkler.webp" },
     { "name": "Easter Sugar Melon", "image": "../../images/EasterSeedShop/Easter Sugar Melon.webp" },
     { "name": "Easter Chocolate Coconut", "image": "../../images/EasterSeedShop/Easter Chocolate Coconut.webp" },
     { "name": "Gummy Bear", "image": "../../images/EasterSeedShop/Gummy Bear.webp" },
     { "name": "Easter Gummy Cactus", "image": "../../images/EasterSeedShop/Easter Gummy Cactus.webp" },
+    { "name": "Easter Gummy Melon", "image": "../../images/EasterSeedShop/Easter Gummy Melon.webp" },
     { "name": "Hootsie Roll", "image": "../../images/EasterSeedShop/Hootsie Roll.webp" },
     { "name": "Easter Sour Lemon", "image": "../../images/EasterSeedShop/Easter Sour Lemon.webp" },
     { "name": "Easter Eggfruit", "image": "../../images/EasterSeedShop/Easter Eggfruit.webp" }    
